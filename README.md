@@ -15,3 +15,6 @@ Here is perpose
 Here is deployment
 
 ## How To Contribute
+
+## Copyright
+There's copyright!!!
