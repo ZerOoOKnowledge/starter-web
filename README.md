@@ -16,5 +16,7 @@ Here is deployment
 
 ## How To Contribute
 
+Just Contribute!!!
+
 ## Copyright
 There's copyright!!!
