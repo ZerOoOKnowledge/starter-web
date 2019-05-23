@@ -3,8 +3,6 @@
 This is a simple project to show how to use git and github.
 Oops, here also!
 
-Hey Hey Yeah Yeah Change Change!
-
 ## Introduction
 
 This is an example balabalabala...
