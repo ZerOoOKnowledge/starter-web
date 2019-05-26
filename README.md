@@ -3,6 +3,8 @@
 This is a simple project to show how to use git and github.
 Oops, here also!
 
+Change to version 1.2
+
 ## Introduction
 
 This is an example balabalabala...
