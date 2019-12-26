@@ -7,6 +7,7 @@
 
 # THANKS
   I'm just here to add some changes!
+  Thanks to all my students!
     <name>
 
 # TECHNOLOGY COLOPHON
